@@ -1,0 +1,280 @@
+
+/********************************* ECards Design ***************************************/
+
+img.ig{
+	margin-top: 140px;
+	margin-left: 140px;
+	margin-right: 140px;
+	margin-bottom: 50px;
+	height: 140px;
+	width: 260px;
+	transition: width 0.75s, height 0.75s;
+}
+
+.ig:hover{
+	width: 520px;
+	height: 280px;
+}
+
+body.bg{
+	background-image: url("../Images/bg2.jpg");
+	width: 100%;
+}
+
+h1{
+	color: yellow;
+}
+
+input{
+	margin: 15px;
+}
+
+/**************************** Creator Page Image ***********************************/
+
+img.ige{
+	margin-top: 100px;
+	height: 260px;
+	width: 500px;
+	position:relative;
+	z-index:initial;
+}
+
+/******************************** Info Page **************************************/
+
+body.info{
+	margin: 20px auto;
+}
+
+.btn {
+	background-color: white;
+	color:black;
+	border-color:red;
+	font-size:18px;
+	border-radius:8px;
+	transition-duration:0.4s;
+	padding:10px;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+	cursor: pointer;
+}
+
+.btn:hover{
+	color:white;
+	background-color:red;
+	border: 2px solid red;
+}
+
+/********************************* Image 1 ***************************************/
+
+.cname1{
+	color:white;
+	margin-top:158px;
+	margin-left:575px;
+	z-index:4;
+	position: absolute;
+	font-size:26px;
+	font-weight:bold;
+}
+
+.name1{
+	color: white;
+	margin-top: 110px;
+	position: absolute;
+	margin-left: 795px;
+	z-index:4;
+	font-size:18px;
+}
+
+.no1{
+	color: white;
+	margin-top: 275px;
+	position: absolute;
+	margin-left: 745px;
+	z-index:4;
+}
+
+.ad11{
+	color: white;
+	margin-top: 225px;
+	position: absolute;
+	margin-left: 745px;
+	z-index:4;
+}
+
+.ad21{
+	color: white;
+	margin-top: 240px;
+	position: absolute;
+	margin-left: 745px;
+	z-index:4;
+}
+
+.mail1{
+	color: white;
+	margin-top: 315px;
+	position: absolute;
+	margin-left: 745px;
+	z-index:4;
+}
+
+/********************************* Image 2 ***************************************/
+
+.cname2{
+	color: white;
+	margin-top: 260px;
+	position: absolute;
+	margin-left: 760px;
+	z-index:4;
+	font-size:26px;
+	font-weight:bold;
+}
+
+.name2{
+	color: white;
+	margin-top: 137px;
+	position: absolute;
+	margin-left: 504px;
+	z-index:4;
+	font-size:22px;
+}
+
+.no2{
+	color: white;
+	margin-top: 195px;
+	position: absolute;
+	margin-left: 504px;
+	z-index:4;
+}
+
+.ad12{
+	color: white;
+	margin-top: 284px;
+	position: absolute;
+	margin-left: 504px;
+	z-index:4;
+}
+
+.ad22{
+	color: white;
+	margin-top: 304px;
+	position: absolute;
+	margin-left: 504px;
+	z-index:4;
+}
+
+.mail2{
+	color: white;
+	margin-top: 240px;
+	position: absolute;
+	margin-left: 504px;
+	z-index:4;
+}
+
+/********************************* Image 3 ***************************************/
+
+.cname3{
+	color:#1589FF;
+	position: absolute;
+	margin-top:215px;
+	margin-left:765px;
+	z-index:4;
+	font-size:26px;
+	font-weight:bold;
+}
+
+.name3{
+	color: skyblue;
+	margin-top: 145px;
+	position: absolute;
+	margin-left: 480px;
+	z-index:4;
+	font-size:26px;
+}
+
+.no3{
+	color: skyblue;
+	margin-top: 220px;
+	position: absolute;
+	margin-left: 498px;
+	z-index:4;
+}
+
+.ad13{
+	color: skyblue;
+	margin-top: 268px;
+	position: absolute;
+	margin-left: 498px;
+	z-index:4;
+}
+
+.ad23{
+	color: skyblue;;
+	margin-top: 290px;
+	position: absolute;
+	margin-left: 498px;
+	z-index:4;
+}
+
+.mail3{
+	color: skyblue;
+	margin-top: 242px;
+	position: absolute;
+	margin-left: 500px;
+	z-index:4;
+}
+
+/********************************* Image 4 ***************************************/
+
+.cname4{
+	color: red;
+	margin-top: 185px;
+	position: absolute;
+	margin-left: 485px;
+	z-index:4;
+	font-size:26px;
+	font-weight:bold;
+}
+
+.name4{
+	color: red;
+	margin-top: 170px;
+	position: absolute;
+	margin-left: 735px;
+	z-index:4;
+	font-size:26px;
+}
+
+.no4{
+	color: white;
+	margin-top: 265px;
+	position: absolute;
+	margin-left: 735px;
+	z-index:4;
+	font-size:18px;
+}
+
+.ad14{
+	color: white;
+	margin-top: 220px;
+	position: absolute;
+	margin-left: 735px;
+	z-index:4;
+	font-size:18px;
+}
+
+.ad24{
+	color: white;
+	margin-top: 240px;
+	position: absolute;
+	margin-left:735px;
+	z-index:4;
+	font-size:18px;
+}
+
+.mail4{
+	color: white;
+	margin-top: 290px;
+	position: absolute;
+	margin-left: 735px;
+	z-index:4;
+	font-size:18px;
+}
